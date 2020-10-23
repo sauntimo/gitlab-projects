@@ -13,7 +13,7 @@ If a project already exists locally, switches to the default branch and pulls.
   
 - initialise
   ```
-  $ cd gitlab-projects && sudo npm i -g 
+  $ cd gitlab-projects && npm i -g 
   ```
 
 - get an [Personal Access Token](https://docs.gitlab.com/ee/user/profile/personal_access_tokens.html) from Gitlab.

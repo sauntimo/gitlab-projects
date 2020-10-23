@@ -29,3 +29,4 @@ If a project already exists locally, switches to the default branch and pulls.
 $ gitlab_projects
 ```
 
+![image](https://user-images.githubusercontent.com/2720466/96970531-c17dc200-150b-11eb-8dd2-2468f8c6f506.png)
